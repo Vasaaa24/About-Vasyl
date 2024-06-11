@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 const Projects = () => {
-    return (
-      <section className="testimonials" id="testimonials">
+  return (
+    <section className="testimonials" id="testimonials">
       <div className="testimonials-box">
         <h2 className="heading">Projekty</h2>
         <div className="wrapper">
@@ -10,14 +10,14 @@ const Projects = () => {
             <img src="/GradRead.png" alt="Vasyl" />
             <h2>GradRead</h2>
             <p>
-              Grad Read je projekt o maturitní četbě, vytvořený pomocí
-              moderního frameworku React.js ve spolupráci s nástrojem Vite,
-              který umožňuje rychlý a efektivní vývoj webových aplikací.
+              Grad Read je projekt o maturitní četbě, vytvořený pomocí moderního
+              frameworku React.js ve spolupráci s nástrojem Vite, který umožňuje
+              rychlý a efektivní vývoj webových aplikací.
             </p>
             <div className="links">
-            <a href="https://grad-read.vercel.app/">
-            <box-icon name='link-external' color='#00ffee' ></box-icon>
-            </a>
+              <a href="https://grad-read.vercel.app/">
+                <box-icon name="link-external" color="#00ffee"></box-icon>
+              </a>
             </div>
           </div>
 
@@ -30,31 +30,30 @@ const Projects = () => {
               místo Vite.
             </p>
             <div className="links">
-            <a href="https://about-vasyl.vercel.app/">
-            <box-icon name='link-external' color='#00ffee' ></box-icon>
-            </a>
+              <a href="https://about-vasyl.vercel.app/">
+                <box-icon name="link-external" color="#00ffee"></box-icon>
+              </a>
             </div>
-            
           </div>
 
           <div className="testimonial-item">
-            <img src="/Webfinity.png" alt="Vasyl" />
-            <h2>Webfinity (ve vývoji)</h2>
+            <img src="/Repository.png" alt="Vasyl" />
+            <h2>All projects</h2>
             <p>
-              Webfinity je tzv. "vanilla" stránka zaměřená na prodej webových
-              stránek, která byla vytvořena pomocí HTML, CSS a JavaScriptu bez
-              použití jakéhokoli frameworku.
+              Zde naleznete různé projekty na mém GitHubu, každý s odlišným
+              zaměřením a účelem. Prozkoumejte je a objevte různorodé
+              technologie a přístupy, které používám.
             </p>
             <div className="links">
-            <a>
-            <box-icon name='link-external' color='#00ffee' ></box-icon>
-            </a>
+              <a href="https://github.com/Vasaaa24?tab=repositories">
+                <box-icon name="link-external" color="#00ffee"></box-icon>
+              </a>
             </div>
           </div>
         </div>
       </div>
     </section>
-    );
-}
+  );
+};
 
 export default Projects;
