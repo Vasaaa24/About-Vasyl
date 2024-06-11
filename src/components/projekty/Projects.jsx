@@ -15,7 +15,7 @@ const Projects = () => {
               který umožňuje rychlý a efektivní vývoj webových aplikací.
             </p>
             <div className="links">
-            <a href="https://www.instagram.com/andrij_029?igsh=cmtpOXRmMGVnZ2kz">
+            <a href="https://grad-read.vercel.app/">
             <box-icon name='link-external' color='#00ffee' ></box-icon>
             </a>
             </div>
@@ -30,7 +30,7 @@ const Projects = () => {
               místo Vite.
             </p>
             <div className="links">
-            <a href="https://www.instagram.com/andrij_029?igsh=cmtpOXRmMGVnZ2kz">
+            <a href="https://about-vasyl.vercel.app/">
             <box-icon name='link-external' color='#00ffee' ></box-icon>
             </a>
             </div>
@@ -39,7 +39,7 @@ const Projects = () => {
 
           <div className="testimonial-item">
             <img src="/Webfinity.png" alt="Vasyl" />
-            <h2>Webfinity</h2>
+            <h2>Webfinity (ve vývoji)</h2>
             <p>
               Webfinity je tzv. "vanilla" stránka zaměřená na prodej webových
               stránek, která byla vytvořena pomocí HTML, CSS a JavaScriptu bez
