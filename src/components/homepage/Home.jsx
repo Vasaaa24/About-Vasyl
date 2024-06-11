@@ -242,6 +242,7 @@ const Home = () => {
             <a href="#contact">Kontakty</a>
           </li>
         </ul>
+        <p className="copyright">Created for portfolio by Vasyl Halyčka</p>
       </footer>
     </div>
   );
