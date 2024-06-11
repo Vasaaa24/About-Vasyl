@@ -28,8 +28,8 @@ const Menu = () => {
   return (
     <header className="header">
       <a href="#home" className="logo">
-        Vasyl
-        <span> Halyčka</span>
+        About
+        <span> Vasyl</span>
       </a>
 
       <nav className="navbar">
