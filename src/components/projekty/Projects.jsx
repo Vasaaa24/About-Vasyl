@@ -46,7 +46,7 @@ const Projects = () => {
               použití jakéhokoli frameworku.
             </p>
             <div className="links">
-            <a href="https://www.instagram.com/andrij_029?igsh=cmtpOXRmMGVnZ2kz">
+            <a href="">
             <box-icon name='link-external' color='#00ffee' ></box-icon>
             </a>
             </div>
