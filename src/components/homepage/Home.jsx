@@ -31,8 +31,8 @@ const Home = () => {
             <a href="https://www.facebook.com/vasyl.halychka">
               <box-icon type="logo" name="facebook-circle"></box-icon>
             </a>
-            <a href="https://www.jobstack.it/profilepreview">
-              <box-icon type="logo" name="linkedin"></box-icon>
+            <a href="https://www.jobstack.it/geek/6651fe63c7cc1">
+            <box-icon name='user'></box-icon>
             </a>
           </div>
 
