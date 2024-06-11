@@ -166,7 +166,7 @@ const Home = () => {
 
             <div className="testimonial-item">
               <img src="/MyWeb.png" alt="Vasyl" />
-              <h2>MyWeb</h2>
+              <h2>About Vasyl</h2>
               <p>
                 MyWeb je stránka, na které se právě nacházíme. Byla vytvořena
                 pomocí frameworku React.js, avšak s využitím nástroje WebPack
