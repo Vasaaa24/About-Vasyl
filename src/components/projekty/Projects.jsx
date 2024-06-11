@@ -14,6 +14,11 @@ const Projects = () => {
               moderního frameworku React.js ve spolupráci s nástrojem Vite,
               který umožňuje rychlý a efektivní vývoj webových aplikací.
             </p>
+            <div className="links">
+            <a href="https://www.instagram.com/andrij_029?igsh=cmtpOXRmMGVnZ2kz">
+            <box-icon name='link-external' color='#00ffee' ></box-icon>
+            </a>
+            </div>
           </div>
 
           <div className="testimonial-item">
@@ -24,6 +29,12 @@ const Projects = () => {
               pomocí frameworku React.js, avšak s využitím nástroje WebPack
               místo Vite.
             </p>
+            <div className="links">
+            <a href="https://www.instagram.com/andrij_029?igsh=cmtpOXRmMGVnZ2kz">
+            <box-icon name='link-external' color='#00ffee' ></box-icon>
+            </a>
+            </div>
+            
           </div>
 
           <div className="testimonial-item">
@@ -34,6 +45,11 @@ const Projects = () => {
               stránek, která byla vytvořena pomocí HTML, CSS a JavaScriptu bez
               použití jakéhokoli frameworku.
             </p>
+            <div className="links">
+            <a href="https://www.instagram.com/andrij_029?igsh=cmtpOXRmMGVnZ2kz">
+            <box-icon name='link-external' color='#00ffee' ></box-icon>
+            </a>
+            </div>
           </div>
         </div>
       </div>
