@@ -46,7 +46,7 @@ const Projects = () => {
               použití jakéhokoli frameworku.
             </p>
             <div className="links">
-            <a href="">
+            <a>
             <box-icon name='link-external' color='#00ffee' ></box-icon>
             </a>
             </div>
