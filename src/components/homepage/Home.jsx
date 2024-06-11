@@ -112,7 +112,7 @@ const Home = () => {
           </div>
           <div className="service-box">
             <div className="service-info">
-              <h4>Frameworks × tools</h4>
+              <h4>Frameworks</h4>
               <p>
                 Mám zkušenosti s React.js, knihovnou pro tvorbu uživatelských
                 rozhraní pomocí komponent a virtuálního DOM. Používám nástroje
