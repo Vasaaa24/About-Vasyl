@@ -1,5 +1,5 @@
 import React from "react";
-import 'boxicons'
+import "boxicons";
 
 const Home = () => {
   return (
@@ -100,34 +100,37 @@ const Home = () => {
         <div className="services-container">
           <div className="service-box">
             <div className="service-info">
-              <h4>Web Development</h4>
+              <h4>Webstack</h4>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Laudantium tempore rerum beatae autem consectetur, ipsum aut, ut
-                neque molestiae veniam necessitatibus quisquam explicabo natus
-                minima quas vel incidunt, unde perferendis!
+                Umím pracovat s HTML, CSS, SCSS a JavaScript. HTML využívám k
+                definování struktury stránek, CSS k formátování vzhledu, SCSS k
+                efektivnějšímu psaní stylů a JavaScript k přidání interaktivity.
+                Díky těmto dovednostem jsem schopen vytvářet moderní a dynamické
+                webové stránky.
               </p>
             </div>
           </div>
           <div className="service-box">
             <div className="service-info">
-              <h4>UX Design</h4>
+              <h4>Frameworks × tools</h4>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Laudantium tempore rerum beatae autem consectetur, ipsum aut, ut
-                neque molestiae veniam necessitatibus quisquam explicabo natus
-                minima quas vel incidunt, unde perferendis!
+                Mám zkušenosti s React.js, knihovnou pro tvorbu uživatelských
+                rozhraní pomocí komponent a virtuálního DOM. Používám nástroje
+                jako WebPack pro správu závislostí a optimalizaci výkonu a Vite,
+                moderní buildovací nástroj s rychlým dev serverem a buildovými
+                procesy pro Vue a React.
               </p>
             </div>
           </div>
           <div className="service-box">
             <div className="service-info">
-              <h4>UI Design</h4>
+              <h4>UX/UI</h4>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Laudantium tempore rerum beatae autem consectetur, ipsum aut, ut
-                neque molestiae veniam necessitatibus quisquam explicabo natus
-                minima quas vel incidunt, unde perferendis!
+                Mám základy UX/UI designu, včetně tvorby uživatelsky přívětivých
+                rozhraní a optimalizace uživatelského zážitku. Umím navrhovat
+                rozložení stránek, vybírat vhodné barevné schémata a typografii
+                a vytvářet prototypy. Tyto dovednosti mi umožňují vytvářet
+                intuitivní a vizuálně atraktivní webové aplikace.
               </p>
             </div>
           </div>
@@ -135,10 +138,11 @@ const Home = () => {
             <div className="service-info">
               <h4>Jazyky</h4>
               <p>
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-                Laudantium tempore rerum beatae autem consectetur, ipsum aut, ut
-                neque molestiae veniam necessitatibus quisquam explicabo natus
-                minima quas vel incidunt, unde perferendis!
+                Ovládám čtyři jazyky: angličtinu plynule a češtinu, ukrajinštinu
+                a ruštinu na výborné úrovni. Díky těmto dovednostem jsem schopen
+                snadno komunikovat a efektivně spolupracovat s různými
+                kulturními a jazykovými skupinami, což přispívá k mé flexibilitě
+                a schopnosti rychle se přizpůsobit různým situacím.
               </p>
             </div>
           </div>
@@ -154,10 +158,9 @@ const Home = () => {
               <img src="/GradRead.png" alt="Vasyl" />
               <h2>GradRead</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Perferendis ab exercitationem similique odio commodi. Beatae,
-                laboriosam magni provident aspernatur magnam esse, dolore
-                veritatis et doloribus saepe adipisci sint nesciunt totam?
+                Grad Read je projekt o maturitní četbě, vytvořený pomocí
+                moderního frameworku React.js ve spolupráci s nástrojem Vite,
+                který umožňuje rychlý a efektivní vývoj webových aplikací.
               </p>
             </div>
 
@@ -165,10 +168,9 @@ const Home = () => {
               <img src="/MyWeb.png" alt="Vasyl" />
               <h2>MyWeb</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Perferendis ab exercitationem similique odio commodi. Beatae,
-                laboriosam magni provident aspernatur magnam esse, dolore
-                veritatis et doloribus saepe adipisci sint nesciunt totam?
+                MyWeb je stránka, na které se právě nacházíme. Byla vytvořena
+                pomocí frameworku React.js, avšak s využitím nástroje WebPack
+                místo Vite.
               </p>
             </div>
 
@@ -176,10 +178,9 @@ const Home = () => {
               <img src="/Webfinity.png" alt="Vasyl" />
               <h2>Webfinity</h2>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Perferendis ab exercitationem similique odio commodi. Beatae,
-                laboriosam magni provident aspernatur magnam esse, dolore
-                veritatis et doloribus saepe adipisci sint nesciunt totam?
+                Webfinity je tzv. "vanilla" stránka zaměřená na prodej webových
+                stránek, která byla vytvořena pomocí HTML, CSS a JavaScriptu bez
+                použití jakéhokoli frameworku.
               </p>
             </div>
           </div>
