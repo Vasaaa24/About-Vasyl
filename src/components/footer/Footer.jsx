@@ -7,7 +7,7 @@ const Footer = () => {
           <a href="https://github.com/Vasaaa24">
             <box-icon type="logo" name="github"></box-icon>
           </a>
-          <a href="https://www.instagram.com/_.vasaaa.__?igsh=MTU2MGF0Nnoyc3Q3MQ%3D%3D&utm_source=qr">
+          <a href="https://www.instagram.com/m_andrijash?igsh=MnZlNG0xMDcwZ3pq">
             <box-icon name="instagram-alt" type="logo"></box-icon>
           </a>
           <a href="https://www.facebook.com/vasyl.halychka">
