@@ -113,7 +113,7 @@
   }
 
 }
-@media (max-width: 350px) {
+@media (max-width: 375px) {
   html {
     font-size: 45%;
   }
