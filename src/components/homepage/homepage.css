@@ -196,7 +196,7 @@ section {
     }
   
     .home-content h1 {
-      font-size: 6rem; /* Adjusted from 8rem for better responsiveness */
+      font-size: 6rem; 
       margin-top: 3rem;
     }
   
@@ -220,7 +220,7 @@ section {
     }
   
     .home-content h1 {
-      font-size: 4.5rem; /* Further adjustment for smaller screens */
+      font-size: 4.5rem;
     }
   
     .home-content h3 {
