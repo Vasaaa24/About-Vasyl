@@ -22,15 +22,15 @@ const Projects = () => {
           </div>
 
           <div className="testimonial-item">
-            <img src="/MyWeb.png" alt="Vasyl" />
-            <h2>About Vasyl</h2>
+            <img src="/Webfinity.png" alt="Vasyl" />
+            <h2>Webfinity</h2>
             <p>
-              MyWeb je stránka, na které se právě nacházíme. Byla vytvořena
-              pomocí frameworku React.js, avšak s využitím nástroje WebPack
-              místo Vite.
+              Webfinity je webshop vytvořený pomocí React.js a WebPacku, což
+              umožňuje efektivní správu závislostí, optimalizaci kódu a
+              vynikající uživatelskou zkušenost.
             </p>
             <div className="links">
-              <a href="https://about-vasyl.vercel.app/">
+              <a href="https://webfinity-team.vercel.app/">
                 <box-icon name="link-external" color="#00ffee"></box-icon>
               </a>
             </div>
