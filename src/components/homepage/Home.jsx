@@ -31,7 +31,7 @@ const Home = () => {
             <a href="https://www.facebook.com/vasyl.halychka">
               <box-icon type="logo" name="facebook-circle"></box-icon>
             </a>
-            <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
+            <a href="https://www.linkedin.com/in/vasyl-haly%C4%8Dka-763b51313/">
             <box-icon type='logo' name='linkedin'></box-icon>
             </a>
           </div>
