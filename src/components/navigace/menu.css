@@ -5,8 +5,7 @@
     left: 0;
     width: 100%;
     padding: 3rem 12%;
-    background: rgba(0, 0, 0, 0.819);
-    backdrop-filter: blur(10px);
+    background: rgb(0, 0, 0);
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -114,15 +113,14 @@
 }
 .dropdown {
   border: none;
-  z-index: 55;
-  margin:0 auto;
-  top: 125px;
+  z-index: 5;
+  top: 85px;
+  left: 0;
   position: fixed;
-  border-radius: 20px;
-  background:var(--bg-color);
-  box-shadow: 0 0 30px var(--main-color);
-  width: 90vw;
-  height: calc(80vh - 80px);
+  background-color:rgba(0, 0, 0, 0.433);
+  backdrop-filter: blur(10px);
+  width: 100vw;
+  height: calc(100vh - 80px);
   display: none;
   justify-content: center;
 }
@@ -142,13 +140,13 @@
   align-items: center;
   justify-content: center;
   justify-content: space-around;
-  background-color: rgb(161, 233, 255);
+  background-color: rgba(161, 233, 255, 0.795);
   border-radius: 20px;
   width: 50%;
   height: 60px;
   font-weight: 600;
   font-size: 15px;
-  color: rgba(0, 0, 0, 0.81);
+  color: rgba(255, 255, 255, 0.81);
   -webkit-box-shadow: 0px 0px 5px 5px rgba(0, 173, 181, 0.35);
   -moz-box-shadow: 0px 0px 5px 5px rgba(0, 173, 181, 0.35);
   box-shadow: 0px 0px 5px 5px rgba(0, 173, 181, 0.35);
