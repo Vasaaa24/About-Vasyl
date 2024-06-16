@@ -121,8 +121,8 @@
   border-radius: 20px;
   background:var(--bg-color);
   box-shadow: 0 0 30px var(--main-color);
-  width: 88vw;
-  height: calc(90vh - 80px);
+  width: 90vw;
+  height: calc(80vh - 80px);
   display: none;
   justify-content: center;
 }
