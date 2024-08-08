@@ -33,13 +33,11 @@ const Education = () => {
 
           <div className="timeline-item">
             <div className="timeline-dot"></div>
-            <div className="timeline-date">2024-27</div>
+            <div className="timeline-date">Od 2024</div>
             <div className="timeline-content">
-              <h3>Vysoká škola</h3>
+              <h3>Budoucnost</h3>
               <p>
-                Byl jsem přijat na Unicorn University, kde budu studovat obor
-                Software Development. Studium teprve začínám, ale těším se na
-                nové výzvy a příležitosti, které mi tato škola přinese
+              Po ukončení střední školy se chci věnovat frontendu. Plánuji absolvovat různé kurzy a získat cenné zkušenosti v praxi, které mi pomohou zařadit se mezi nejlepší kodéry.
               </p>
             </div>
           </div>
