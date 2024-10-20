@@ -33,11 +33,11 @@ const Education = () => {
 
           <div className="timeline-item">
             <div className="timeline-dot"></div>
-            <div className="timeline-date">Od 2024</div>
+            <div className="timeline-date">2024-27</div>
             <div className="timeline-content">
-              <h3>Budoucnost</h3>
+              <h3>Universita</h3>
               <p>
-              Po ukončení střední školy se chci věnovat frontendu. Plánuji absolvovat různé kurzy a získat cenné zkušenosti v praxi, které mi pomohou zařadit se mezi nejlepší kodéry.
+              Začal jsem studovat na Unicorn University v oboru Software Developer. Myslím si že se mi studium na teto škole hodí v budoucnosti. Jeden z cílů souyslích s touto školu, je dostat se do firmy Microsoft na pozici Software Developer. 
               </p>
             </div>
           </div>
