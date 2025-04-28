@@ -19,7 +19,18 @@ const Projects = () => {
             </div>
             
           </div>
-         
+          <div className="testimonial-item">
+            <img src="/kachlirka.png" alt="DragonWay" />
+            <h2>Statek Kachlířka</h2>
+            <p>
+            Jedná se o zakázkovou práci pro mého klienta. Stránka využívá HTML, CSS, Bootstrap a JavaScript a nabízí responzivní design, dynamické prvky, práci s formuláři, interaktivní funkce, administrační rozhraní a galerii.
+            </p>
+            <div className="links">
+              <a href="https://kachlirka.vercel.app/">
+                <box-icon name="link-external" color="#00ffee"></box-icon>
+              </a>
+            </div>
+          </div>
 
           <div className="testimonial-item">
             <img src="/Webfinity.png" alt="Webfinity" />
@@ -78,19 +89,7 @@ const Projects = () => {
               </a>
             </div>
           </div>
-          <div className="testimonial-item">
-            <img src="/about.png" alt="AboutVasyl" />
-            <h2>Abou Vasyl</h2>
-            <p>
-            Toto je web, na kterém se nacházíte, vytvořený pomocí React.js, HTML, CSS a Webpacku, 
-            a slouží jako moje online CV pro lepší seznámení a představení mých dovedností a zkušeností.
-            </p>
-            <div className="links">
-              <a href="https://about-vasyl.vercel.app/">
-                <box-icon name="link-external" color="#00ffee"></box-icon>
-              </a>
-            </div>
-          </div>
+         
 
          
         </div>

@@ -9,7 +9,7 @@ const Skills = () => {
             <div className="service-info">
               <h4>Webstack</h4>
               <p>
-                Umím pracovat s HTML, CSS, SCSS a JavaScript. HTML využívám k
+                Umím pracovat s HTML, CSS, SCSS, Bootstrap a JavaScript. HTML využívám k
                 definování struktury stránek, CSS k formátování vzhledu, SCSS k
                 efektivnějšímu psaní stylů a JavaScript k přidání interaktivity.
                 Díky těmto dovednostem jsem schopen vytvářet moderní a dynamické
