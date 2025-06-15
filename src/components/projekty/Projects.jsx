@@ -26,7 +26,7 @@ const Projects = () => {
             Jedná se o zakázkovou práci pro mého klienta. Stránka využívá HTML, CSS, Bootstrap a JavaScript a nabízí responzivní design, dynamické prvky, práci s formuláři, interaktivní funkce, administrační rozhraní a galerii.
             </p>
             <div className="links">
-              <a href="https://statek-black.vercel.app/">
+              <a href="https://kachlirka.cz/">
                 <box-icon name="link-external" color="#00ffee"></box-icon>
               </a>
             </div>
