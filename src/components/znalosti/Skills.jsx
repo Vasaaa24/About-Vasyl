@@ -9,7 +9,7 @@ const Skills = () => {
             <div className="service-info">
               <h4>Webstack</h4>
               <p>
-                Umím pracovat s HTML, CSS, SCSS, Bootstrap a JavaScript. HTML využívám k
+                Umím pracovat s HTML, CSS, SCSS, Bootstrap, TypeScript a JavaScript. HTML využívám k
                 definování struktury stránek, CSS k formátování vzhledu, SCSS k
                 efektivnějšímu psaní stylů a JavaScript k přidání interaktivity.
                 Díky těmto dovednostem jsem schopen vytvářet moderní a dynamické
@@ -38,6 +38,25 @@ const Skills = () => {
                 rozložení stránek, vybírat vhodné barevné schémata a typografii
                 a vytvářet prototypy. Tyto dovednosti mi umožňují vytvářet
                 intuitivní a vizuálně atraktivní webové aplikace.
+              </p>
+            </div>
+          </div>
+          <div className="service-box">
+            <div className="service-info">
+              <h4>Enterprise & SAP</h4>
+              <p>
+                Mám zkušenosti s vývojem podnikových aplikací v prostředí SAP UI5 / SAP Fiori.
+                Pracuji s OData službami, MVC architekturou, tvorbou vlastních komponent a custom
+                controls. Orientuji se v napojení na backend (ABAP), práci s REST API a návrhu 
+                enterprise UI podle Fiori design guidelines.
+              </p>
+            </div>
+          </div>
+          <div className="service-box">
+            <div className="service-info">
+              <h4>DevOps & Tools</h4>
+              <p>
+               Pracuji s TypeScriptem a moderním JavaScript ekosystémem. Mám zkušenosti s CI/CD (GitLab pipelines), verzováním v Git, kontejnerizací pomocí Dockeru a automatizací build procesů. Pro návrh uživatelského rozhraní používám Figma a rozumím principům UX/UI designu.
               </p>
             </div>
           </div>

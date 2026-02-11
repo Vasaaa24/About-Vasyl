@@ -3,9 +3,11 @@ import React from "react";
 const Projects = () => {
   return (
     <section className="testimonials" id="testimonials">
+    
       <div className="testimonials-box">
         <h2 className="heading">Projekty</h2>
         <div className="wrapper">
+          
         <div className="testimonial-item">
             <img src="/tburger.png" alt="Tburger" />
             <h2>Tburger</h2>
@@ -18,6 +20,18 @@ const Projects = () => {
               </a>
             </div>
             
+          </div>
+          <div className="testimonial-item">
+            <img src="/QrestLogo.png" alt="QRest" />
+            <h2>QRest</h2>
+            <p>
+            Jedná se o mobilní aplikaci, která plně nahrazuje obsluhu v restauraci. Obsahuje menu, platební metody, generované QR kódy pro každý stůl a vlastní databázi pro kuchyni.
+            </p>
+            <div className="links">
+              <a href="https://foodly-opalss.vercel.app/?table=1">
+                <box-icon name="link-external" color="#00ffee"></box-icon>
+              </a>
+            </div>
           </div>
           <div className="testimonial-item">
             <img src="/kachlirka.png" alt="DragonWay" />
