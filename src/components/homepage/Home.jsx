@@ -12,7 +12,7 @@ const Home = () => {
           <h3 className="text-animation">
             Jsem <span></span>
           </h3>
-          <p style={{ fontSize: "20px" }}>
+          <p style={{ fontSize: "17px" }}>
            Zabývám se vývojem webových aplikací a softwarových řešení v oblasti IT. Aktuálně pracuji především jako SAP UI5 / Fiori developer, kde se věnuji vývoji moderních enterprise aplikací, práci s OData službami, TypeScriptem a integraci frontendových řešení s backendem.
 
 Mým zaměřením je tvorba moderních, uživatelsky přívětivých a funkčních aplikací, které splňují aktuální technologické standardy a požadavky trhu. Kromě vývoje se věnuji také CI/CD procesům, práci s GitLabem, Dockerem a návrhu UI/UX ve Figmě.
